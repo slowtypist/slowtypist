@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+with+Framer+Motion+%26+and+GSAP+%7C+Data+Science+with+ML+%26+DL+%7C+DSA+in+C%2B%2B&center=true&width=1000&height=50&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+with+Framer+Motion+and+GSAP+%7C+Data+Science+with+ML+%26+DL+%7C+DSA+in+C%2B%2B&center=true&width=1000&height=50&repeat=false" />
 </p>
 ---
 
